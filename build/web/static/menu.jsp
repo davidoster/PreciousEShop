@@ -1,6 +1,6 @@
 <%-- any content can be specified here e.g.: --%>
 <%@ page pageEncoding="UTF-8" %>
-<link rel="stylesheet" href="css/styles.css" type="text/css">
+
 <div class="navbar">
     <div class="dropdown">
         <button class="dropbtn">Customers
